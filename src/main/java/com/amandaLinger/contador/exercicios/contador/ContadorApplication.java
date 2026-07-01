@@ -1,13 +1,11 @@
-package com.amandaLinger.contador;
+package com.amandaLinger.contador.exercicios.contador;
 
-import com.amandaLinger.contador.model.Tarefa;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.io.File;
-import java.util.Scanner;
 
 @SpringBootApplication
 public class ContadorApplication implements CommandLineRunner {

@@ -1,6 +1,5 @@
 package com.amandaLinger.contador.exercicios.primos;
 
-import com.amandaLinger.contador.ContadorApplication;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
